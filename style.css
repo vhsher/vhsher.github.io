@@ -18,6 +18,7 @@ body {
   background-color: #333333;
   color: #FFFFFF;
   cursor: default;
+  user-select: none;
 }
 
 header {
