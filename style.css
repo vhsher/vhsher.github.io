@@ -3,3 +3,8 @@
 * {
   font-family: 'Arkhip', sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+body {
+  background-color: #333333;
+  color: #FFFFFF;
+}
