@@ -29,6 +29,10 @@ header {
   font-size: 40px;
 }
 
+footer {
+  margin-down: 5px
+}
+
 h2 {
   align-self: flex-start;
   font-size: 50px;
